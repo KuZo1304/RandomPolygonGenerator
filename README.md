@@ -7,7 +7,7 @@ A simple program to generate random polygons based on 3 fixed criteria:
 
 The point set is randomly generated and number of points can be passed as a command line argument, default 100.
 
-The Triangulation library used is the fast Delaunay Triangulation Library [delaunator-cpp](https://github.com/delfrrr/delaunator-cpp)
+The Triangulation library used is the fast Delaunay Triangulation Library [delaunator-cpp](https://github.com/delfrrr/delaunator-cpp) (very slightly modified).
 
 Interface:
 
