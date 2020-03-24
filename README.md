@@ -21,10 +21,10 @@ q | Quit
 
 
 Star Polygon:
-![alt-text](https://github.com/KuZo1304/RandomPolygonGenerator/Star.png "Star Polygon")
+![alt-text](https://raw.githubusercontent.com/KuZo1304/RandomPolygonGenerator/master/Star.png "Star Polygon")
 
 Monotone Polygon:
-![alt-text](https://github.com/KuZo1304/RandomPolygonGenerator/Mono.png "Monetone Polygon")
+![alt-text](https://raw.githubusercontent.com/KuZo1304/RandomPolygonGenerator/master/Mono.png "Monetone Polygon")
 
 Random Polygon:
-![alt-text](https://github.com/KuZo1304/RandomPolygonGenerator/Rand.png "Random Polygon")
+![alt-text](https://raw.githubusercontent.com/KuZo1304/RandomPolygonGenerator/master/Rand.png "Random Polygon")
