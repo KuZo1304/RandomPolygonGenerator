@@ -1,0 +1,4 @@
+sudo apt-get install libsdl2-2.0
+sudo apt-get install libsdl2-dev
+wget https://github.com/delfrrr/delaunator-cpp/blob/master/include/delaunator.hpp
+sed -i '184 a\    Delaunator();' delaunator.hpp
