@@ -18,3 +18,13 @@ m | Monotone Polygon
 r | Random Polygon
 c | Clear Polgon
 q | Quit
+
+
+Star Polygon:
+![alt-text](https://github.com/KuZo1304/RandomPolygonGenerator/Star.png "Star Polygon")
+
+Monotone Polygon:
+![alt-text](https://github.com/KuZo1304/RandomPolygonGenerator/Mono.png "Monetone Polygon")
+
+Random Polygon:
+![alt-text](https://github.com/KuZo1304/RandomPolygonGenerator/Rand.png "Random Polygon")
