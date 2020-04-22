@@ -130,24 +130,6 @@ bool orientation(SDL_Point a, SDL_Point b, SDL_Point c)
      return ((b.x - a.x)*(c.y - a.y) - (b.y - a.y)*(c.x - a.x)) > 0;
 }
 
-class tri_pair
-{
-public:
-    size_t first;
-    int second;
-    tri_pair(size_t a, int b)
-    {
-        first = a;
-        second = b;
-    }
-};
-
-bool comp(tri_pair t1, tri_pair t2)
-{
-    return (t1.second<t2.second);
-}
-
-
 int main( int argc, char* args[] )
 {
      int seed = time(NULL);
